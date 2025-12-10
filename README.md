@@ -1,4 +1,4 @@
-Practice Github commands
+-- Practice Github commands --
 
 # 1. Check what files have changed
 git status
