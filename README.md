@@ -13,3 +13,11 @@ git commit -m "Your commit message describing the changes"
 
 # 4. Push to GitHub
 git push origin main
+
+
+-- Starting a new folder -- 
+
+Create a new repo on github 
+the 
+git clone "link from github" 
+# Make sure that you are in the correct folder you want it in!
